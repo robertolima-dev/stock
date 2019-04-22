@@ -1,0 +1,4 @@
+This java Application shows in the console the name of the product and the quantity of stock of this product. Updated inventory (addition and removal of products).
+
+**Author: Roberto Lima**
+
