@@ -26,6 +26,11 @@ public class Program {
 		
 		Product product = new Product(name, price, quantity);
 		
+		product.setName("Computer");
+		System.out.println("Updated name: "+ product.getPrice());
+		product.setPrice(1200.00);
+		System.out.println("Updated price: "+ product.getPrice());
+		
 		System.out.println();
 		System.out.print("Product data: " + product); // implicitamente chama o metodo toString do obj
 		

@@ -4,3 +4,4 @@ This java Application shows in the console the name of the product and the quant
 
 v1.0.0 - class
 v1.0.1 - construct / overload
+v1.0.2 - setter & getter
