@@ -2,3 +2,5 @@ This java Application shows in the console the name of the product and the quant
 
 **Author: Roberto Lima**
 
+v1.0.0 - class
+v1.0.1 - construct / overload
